@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I'm a full-stack softare engineer, and former experienced tech sales professional. I've completed a 1000-hour immersive coding bootcamp specializing in full-stack web development, Test-Driven Development (TDD), algorithms, and programming best practices.
+I'm a full-stack software engineer, and former experienced tech sales professional. I've completed a 1000-hour immersive coding bootcamp specializing in full-stack web development, Test-Driven Development (TDD), algorithms, and programming best practices.
 
 Since beginning my journey as a full-stack software engineer two years ago, I've completed multiple full-stack projects while growing my expertise in technologies like JavaScript, Express, React, Python, and Flask.
 
