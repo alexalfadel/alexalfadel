@@ -20,7 +20,6 @@ I'm a full-stack software engineer, and former experienced tech sales profession
 
 Since beginning my journey as a full-stack software engineer two years ago, I've completed multiple full-stack projects while growing my expertise in technologies like JavaScript, Express, React, Python, and Flask.
 
-I'm excited to leverage my passion and skills in software engineering combined with my background in tech sales to contribute effectively as a full stack software engineer.
 
 ## Call Me, Beep Me
 [![LI-In-Bug](https://github.com/alexalfadel/alexalfadel/assets/117706901/51caa5f1-ae61-439f-a8b5-1ab409080f4c)](https://www.linkedin.com/in/alexandraalfadel) [![icons8-email-64](https://github.com/alexalfadel/alexalfadel/assets/117706901/bcd481e6-e778-408b-bd80-0c3a38da7cce)](alexalfadel@gmail.com)
