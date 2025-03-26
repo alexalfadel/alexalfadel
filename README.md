@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## About Me
+I'm an Account Executive and Full-Stack Developer based in the SF Bay Area, blending technical expertise with a knack for translating complex ideas into real business value. With a strong background in enterprise sales and hands-on coding, I excel at building scalable solutions and delivering technical demos that drive results. Passionate about innovation, I'm always on the lookout for new ways to solve problems and make an impact.
 
 ## Call Me, Beep Me
 [![LI-In-Bug](https://github.com/alexalfadel/alexalfadel/assets/117706901/51caa5f1-ae61-439f-a8b5-1ab409080f4c)](https://www.linkedin.com/in/alexandraalfadel) [![icons8-email-64](https://github.com/alexalfadel/alexalfadel/assets/117706901/bcd481e6-e778-408b-bd80-0c3a38da7cce)](alexalfadel@gmail.com)
